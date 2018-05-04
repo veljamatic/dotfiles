@@ -1,0 +1,10 @@
+packages: [
+  "advanced-open-file"
+  "atom-beautify"
+  "busy-signal"
+  "intentions"
+  "language-apache"
+  "linter"
+  "linter-ui-default"
+  "minimap"
+]

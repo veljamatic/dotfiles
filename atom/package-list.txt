@@ -1,0 +1,8 @@
+atom-beautify@0.30.5
+busy-signal@1.4.3
+intentions@1.1.5
+language-apache@1.8.0
+linter@2.2.0
+linter-ui-default@1.6.10
+minimap@4.29.7
+
