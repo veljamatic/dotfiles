@@ -35,7 +35,7 @@ brew cask install firefox
 
 # less often
 brew cask install vlc
-# brew cask install utorrent
+brew cask install utorrent
 
 brew tap caskroom/fonts
 brew cask install font-fira-code

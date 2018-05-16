@@ -62,11 +62,14 @@ brew install fzf
 brew install git
 brew install imagemagick --with-webp
 brew install node # This installs `npm` too using the recommended installation method
+brew install composer
 brew install pv
 brew install rename
 brew install tree
 brew install zopfli
 brew install ffmpeg --with-libvpx
+
+brew install golang
 
 brew install terminal-notifier
 
